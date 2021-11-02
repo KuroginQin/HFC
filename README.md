@@ -22,12 +22,12 @@ All the datasets can be found in 'data/' with the .m format. To include your own
 
 ### Citing
 Please cite the following paper if you use *HFC* in your research:
->@inproceedings{qin2019towards,
->  title={Towards a Profiling View for Unsupervised Traffic Classification by Exploring the Statistic Features and Link Patterns},
->  author={Qin, Meng and Lei, Kai and Bai, Bo and Zhang, Gong},
->  booktitle={Proceedings of the ACM SIGCOMM 2019 Workshop on Network Meets AI \& ML},
->  pages={50--56},
->  year={2019}
+>@inproceedings{qin2019towards,<br>
+>  title={Towards a Profiling View for Unsupervised Traffic Classification by Exploring the Statistic Features and Link Patterns},<br>
+>  author={Qin, Meng and Lei, Kai and Bai, Bo and Zhang, Gong},<br>
+>  booktitle={Proceedings of the ACM SIGCOMM 2019 Workshop on Network Meets AI \& ML},<br>
+>  pages={50--56},<br>
+>  year={2019}<br>
 >}
 
 If you have any questions regarding this project, please contact the authors via [mengqin_az@foxmail.com].
